@@ -25,7 +25,7 @@
     "website": "ocw-www"
   },
   "course_image": {
-    "content": "",
+    "content": "3d940df2-cec7-4c22-b7f0-94c2c140176c",
     "website": "the-anthropology-of-sound"
   },
   "course_title": "The Anthropology of Sound",
@@ -37,10 +37,15 @@
   "extra_course_numbers": "STS.065J",
   "primary_course_number": "21A.505J",
   "course_image_thumbnail": {
-    "content": "",
+    "content": "dc01db0f-6c45-4245-b176-3d017bd246b4",
     "website": "the-anthropology-of-sound"
   },
-  "learning_resource_types": [],
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Readings",
+    "Activity Assignments with Examples",
+    "Written Assignments with Examples"
+  ],
   "site_uid": "39515566-d303-4580-be99-6e47f7850edf",
   "site_short_id": "21A.505J-spring-2022"
 }
