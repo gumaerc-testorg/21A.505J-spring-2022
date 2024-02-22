@@ -3,6 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/21a-505j-the-anthropology-of-sound-spring-2022/mit21a_505js22_lec2.pdf
+file_size: 7525121
 file_type: application/pdf
 image_metadata:
   caption: ''
