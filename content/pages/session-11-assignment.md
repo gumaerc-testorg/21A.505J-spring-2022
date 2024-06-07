@@ -9,14 +9,14 @@ uid: c0300e20-c083-4b7a-ad86-5d1128fe9ede
 
 Please prepare your musical project for spatial mixing during session 12.  There are a few options:
 
-1. If possible, please prepare your composition so that different parts are in different tracks. In the Lab, during class, we will map those tracks to positions in space using the {{% resource_link "db595499-74d3-43cf-81d9-5e864a6cfed4" "d&b Soundscape" %}} technology.  
+1. If possible, please prepare your composition so that different parts are in different tracks. In the Lab, during class, we will map those tracks to positions in space using the [d&b Soundscape](https://www.dbsoundscape.com/global/en/) technology.  
 2. Please also prepare a stereo version of your track (i.e., mixed down to two tracks, right and left). In Live, you can do this by using File > Export Audio/Video. There are many possible settings here. I encourage you to Encode PCM using WAV or AIFF. We can use this version to test the quad splitter circuit board in the Lab. How do the decisions made by the circuit board differ from separating our compositions by instrument or sample?  
 3. Use the panning knobs for each track to create different kinds of spatialized mixes. Some of the reverb and delay tools offer various spatialization techniques as well, such as ping pong or reverberating cave effects. Can you find any interesting effects to giving your sounds more of a sense of space? 
-4. For a more advanced experience, try using {{% resource_link "ec0e5de4-e1a6-4c55-a2db-06c4c60559e8" "Envelop for Live" %}} spatial mixing tools for your multichannel track. You can listen using headphones, and experiment with placing your tracks in different locations in 360-degree space. 
+4. For a more advanced experience, try using [Envelop for Live](https://envelop.us/page/tools) spatial mixing tools for your multichannel track. You can listen using headphones, and experiment with placing your tracks in different locations in 360-degree space. 
 
-Here's a brief {{% resource_link "7e8efadb-dca5-4716-b93e-14e13b199cd4" "guide" %}} including download links and video tutorial for Envelop for Live.
+Here's a brief [guide](https://github.com/EnvelopSound/EnvelopForLive) including download links and video tutorial for Envelop for Live.
 
-More detailed guidance for the E4L (Envelop for Live) tools is {{% resource_link "ba1a6026-fe4c-43b1-bd66-8c9260458b4f" "here" %}}.
+More detailed guidance for the E4L (Envelop for Live) tools is [here](https://github.com/EnvelopSound/EnvelopForLive/wiki).
 
 The short version is this:  
 
