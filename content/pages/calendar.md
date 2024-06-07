@@ -15,15 +15,15 @@ uid: 4b15eebb-b71a-407b-805f-b455ed1dc730
 
 *Sound/video examples and excerpts in class*
 
-- {{% resource_link "c465743b-ca0b-474e-958a-715db17cc960" "*Voices Of The Rainforest: A Day In The Life Of The Kaluli People*" %}}*.* Steven Feld. Rykodisc, 1991. 
-- “{{% resource_link "44290206-d30e-45e7-8eb3-44d5a40f8d2c" "The Roaring Twenties: An Interactive Exploration of the Historical Soundscape of New York City" %}}.” Emily Thompson, Scott Mahoy, and Ben Johnston. 2019. 
-- “{{% resource_link "1cc83362-77eb-425b-9dba-908dea027a4c" "Alvin Lucier - I Am Sitting In A Room" %}}.” 1969. YouTube.
-- “{{% resource_link "baede03b-319b-4cca-b411-b2bdf9c14101" "I Am Sitting in a Zoom" %}}.” Tim Shaw and John Bowers. 2020. Bandcamp.
-- “{{% resource_link "efd930f1-09c5-41f7-ba6b-d8b66b1a123e" "Here We All Are (Lucier Mix)" %}}.” Cathy Lane. 2020. Bandcamp.
-- “{{% resource_link "af1f2e18-4007-4b71-b621-b6fb116f6e21" "Convolution Reverb" %}}.” Advertised and explained by Ableton.
-- “{{% resource_link "bd85c92a-a0aa-4b8f-8680-3acab231b97e" "Sound System Outernational 2, 2nd July 2016" %}}.” Vimeo.
-- {{% resource_link "05b06502-b38d-41a1-95a4-05b3b5a05475" "*Lovers Rock*" %}}. Directed by Steve McQueen. Color, 70 min. 2020.  
-- “{{% resource_link "725708c6-a992-4829-b02a-15d617be5ce1" "TCI IRL: Quarantine Supercut: The Creative Independent" %}}." Assembled and produced by Drew Daniel. 2020. Soundcloud.
+- [*Voices Of The Rainforest: A Day In The Life Of The Kaluli People*](https://folkways.si.edu/voices-of-the-rainforest/world/music/album/smithsonian)*.* Steven Feld. Rykodisc, 1991. 
+- “[The Roaring Twenties: An Interactive Exploration of the Historical Soundscape of New York City](http://nycitynoise.com/).” Emily Thompson, Scott Mahoy, and Ben Johnston. 2019. 
+- “[Alvin Lucier - I Am Sitting In A Room](https://www.youtube.com/watch?v=fAxHlLK3Oyk).” 1969. YouTube.
+- “[I Am Sitting in a Zoom](https://timshaw.bandcamp.com/album/i-am-sitting-in-a-zoom).” Tim Shaw and John Bowers. 2020. Bandcamp.
+- “[Here We All Are (Lucier Mix)](https://amplify2020.bandcamp.com/album/here-we-all-are-lucier-mix).” Cathy Lane. 2020. Bandcamp.
+- “[Convolution Reverb](https://www.ableton.com/en/packs/convolution-reverb/).” Advertised and explained by Ableton.
+- “[Sound System Outernational 2, 2nd July 2016](https://vimeo.com/184107481).” Vimeo.
+- [*Lovers Rock*](https://www.imdb.com/title/tt10551102/?ref_=fn_al_tt_5). Directed by Steve McQueen. Color, 70 min. 2020.  
+- “[TCI IRL: Quarantine Supercut: The Creative Independent](https://soundcloud.com/user-597121341/tci-irl-the-sound-of-quarantine?ref=section-tci-irl-promo-open-call-quarantine-supercut-with-drew-daniel)." Assembled and produced by Drew Daniel. 2020. Soundcloud.
 
 ## Session 3: Make a Beat to Share in Class \[C\]
 
@@ -37,14 +37,14 @@ Guest: Dr. Beth Semel, MIT Department of Anthropology.
 
 *Sound/video examples and excerpts in class*
 
-- “{{% resource_link "b209266d-c687-4323-b959-66b518e7c0ea" "Au Clair de la Lune" %}}” phonautogram. Éduoard-Léon Scott de Martinville. 1860, audified in 2008. Bandcamp.
-- “{{% resource_link "b879fad8-077b-4df5-a157-52ae60d72c63" "Human Speech From a Piano…" %}}” (Speech spectrogram transformed to MIDI to activate “speaking” player piano.) Ledgernote. 
-- “{{% resource_link "f3eb8825-9e74-4afa-bd8b-9382e05bb315" "Pianos Can Emulate Human Voices, Apparently" %}}.”  (Spectrogram of Bee Gees’ “Stayin’ Alive” transformed to MIDI to activate player piano.) Kill Screen.
-- “{{% resource_link "b7154fd4-23bd-4454-ad02-b48f784ec488" "telharmonium documental 1.mp4" %}}.” (*Magic Music from the Telharmonium*. Reynold Weidenaar. Magnetic Music, 2006.) YouTube.
-- “{{% resource_link "9ef80f43-3cd5-487e-a8c0-191ff181a1b5" "CYMATICS: Science Vs. Music - Nigel Stanford" %}}.” 2014. YouTube. 
-- “{{% resource_link "9884f4f3-3a14-4cb6-9861-3d575fc3233c" "What do cochlear implants sound like? - 2: music" %}}.” (Simulation of Ludwig van Beethoven's "Kreutzer Sonata," through cochlear implant.) Auditory Neuroscience.
-- “{{% resource_link "50c486ef-b2c2-4bbf-a736-49fa735f3515" "Synapse: Robin Fox and the Bionic Ear" %}}.” YouTube.
-- “{{% resource_link "a27afb7f-72a3-44e0-b765-0be0e944393e" "D-PAN Interview: Christine Sun Kim - Sound Artist" %}}.” YouTube.
+- “[Au Clair de la Lune](https://dusttodigital.bandcamp.com/album/au-clair-de-la-lune)” phonautogram. Éduoard-Léon Scott de Martinville. 1860, audified in 2008. Bandcamp.
+- “[Human Speech From a Piano…](https://ledgernote.com/blog/interesting/human-speech-piano/)” (Speech spectrogram transformed to MIDI to activate “speaking” player piano.) Ledgernote. 
+- “[Pianos Can Emulate Human Voices, Apparently](https://killscreen.com/previously/articles/pianos-can-emulate-human-voices-apparently/).”  (Spectrogram of Bee Gees’ “Stayin’ Alive” transformed to MIDI to activate player piano.) Kill Screen.
+- “[telharmonium documental 1.mp4](https://www.youtube.com/watch?v=TunkjJvbrHs).” (*Magic Music from the Telharmonium*. Reynold Weidenaar. Magnetic Music, 2006.) YouTube.
+- “[CYMATICS: Science Vs. Music - Nigel Stanford](https://www.youtube.com/watch?v=Q3oItpVa9fs).” 2014. YouTube. 
+- “[What do cochlear implants sound like? - 2: music](https://auditoryneuroscience.com/prosthetics/music).” (Simulation of Ludwig van Beethoven's "Kreutzer Sonata," through cochlear implant.) Auditory Neuroscience.
+- “[Synapse: Robin Fox and the Bionic Ear](https://www.youtube.com/watch?v=HLX-rPsphV8).” YouTube.
+- “[D-PAN Interview: Christine Sun Kim - Sound Artist](https://www.youtube.com/watch?v=cW3ZeoM5PsE).” YouTube.
 
 ## Session 5: Propose the Sound Object You Will Work on this Term; Bring a Clip to Demo Ideas \[C\] 
 
@@ -54,16 +54,16 @@ Assignment due: Sound object proposal due (See {{% resource_link "3adf174e-7941-
 
 *Sound/video examples and excerpts in class*
 
-- “{{% resource_link "ffd84004-ea8b-436b-ac68-e56085f8ed7a" "1903 Edison Phonograph Recording Demo | Maker Faire Detroit" %}}.” (Clara Deck, Henry Ford Museum conservator demonstrates Edison phonograph.) YouTube.
-- “{{% resource_link "bc06e9e6-9106-432d-9725-ebdb0ce5689f" "Raymond Cass Audio - 1" %}}.” (Raymond Cass on electronic voice phenomena.) YouTube.
-- “{{% resource_link "da43f817-d425-4ca3-a465-2adf9b4a936b" "Led Zeppelin - Backward Masking 1983 (Televangelist)" %}}.” (Televangelists play Led Zeppelin backward on Trinity Broadcasting Network, 1983.) YouTube.
-- “{{% resource_link "3b2e9da1-f65e-4c3d-acf2-286e57760aed" "The Loudness War" %}}.” YouTube.
-- “{{% resource_link "abb92583-0f74-42ff-92d4-69d91fdb9ec6" "How a Suzanne Vega Song Helped Create the MP3" %}}.” YouTube.
-- Iron Maiden’s “{{% resource_link "47081bc8-a5a2-4757-ba0e-f74784a34b2f" "The Number of the Beast" %}},” compressed 666 times. Cory Arcangel.
+- “[1903 Edison Phonograph Recording Demo | Maker Faire Detroit](https://www.youtube.com/watch?v=wRTgl0qx6wE).” (Clara Deck, Henry Ford Museum conservator demonstrates Edison phonograph.) YouTube.
+- “[Raymond Cass Audio - 1](https://www.youtube.com/watch?v=9LJlvB9kOVo).” (Raymond Cass on electronic voice phenomena.) YouTube.
+- “[Led Zeppelin - Backward Masking 1983 (Televangelist)](https://www.youtube.com/watch?v=epCmTZx174A).” (Televangelists play Led Zeppelin backward on Trinity Broadcasting Network, 1983.) YouTube.
+- “[The Loudness War](https://www.youtube.com/watch?v=3J91GEmTio0).” YouTube.
+- “[How a Suzanne Vega Song Helped Create the MP3](https://www.youtube.com/watch?v=OeE5t7aJVsI).” YouTube.
+- Iron Maiden’s “[The Number of the Beast](https://coryarcangel.com/downloads/Cory-Arcangel-666.mp3),” compressed 666 times. Cory Arcangel.
 
 *Film in class*
 
-- {{% resource_link "48b7fe96-5f23-47ee-a956-a39a7ac221ad" "*Scratch*" %}}. Directed by Doug Pray. Color, 92 min. 2001.
+- [*Scratch*](https://www.imdb.com/title/tt0143861/?ref_=nv_sr_srsg_7). Directed by Doug Pray. Color, 92 min. 2001.
 
 Assignment due: Paper 1 due (See {{% resource_link "3adf174e-7941-4d88-9854-eb4b1eb6c643" "Assignments" %}} section for further detail.)
 
@@ -75,41 +75,41 @@ See {{% resource_link "3adf174e-7941-4d88-9854-eb4b1eb6c643" "Assignments" %}} s
 
 *Sound/video examples and excerpts in class*
 
-- “{{% resource_link "c238ffc5-97ee-47b3-ae8d-6fc27275a4a4" "8 Led Zeppelin Songs That 'Rip Off' Other Songs" %}}.” 2021. YouTube.
-- “{{% resource_link "d73ff50e-e763-411d-910e-06b855e9d28d" "Copyright Criminals - Trailer" %}}.” 2010. YouTube.
-- “{{% resource_link "d3f2f470-7351-4124-9ba3-70ba99f7e1d6" "U2: How Negativland Exposed U2's Hypocrisy" %}}.” 2020. YouTube.
-- “{{% resource_link "5876ca63-dcf5-4664-81e2-aa276baef196" "Negativland - Still Haven't Found What I'm Looking For (Special Edit Radio Mix)" %}}.” 1991. YouTube.
-- “{{% resource_link "d2d83a08-4afc-49e5-bc86-32d49a1175e2" "Madonna - What the F\*ck Do You Think You're Doing?" %}}” 2003. YouTube.
-- {{% resource_link "64c1d55d-3a29-494a-8991-3bc7bd8ea575" "*Xerophonics: Copying Machine Music*" %}}. Stefan Helmreich. 2003. Spotify.
-- “{{% resource_link "24fa3e35-a45c-44be-9473-5a2867482baa" "The Harley-Davidson Sound Trademark" %}}.” Smit & Van Wyk. 
-- “{{% resource_link "bc74dde6-cd57-4236-b812-8495aa0bd628" "DJ /rupture - Gold Teeth Thief" %}}.” 2001. YouTube.
-- Boone, Christine. “{{% resource_link "b4d6b959-4531-4d50-8f32-1c114ff9af36" "Gendered Power Relationships in Mashups" %}}.” *Music Theory Online* 24, no. 1 (2018).
+- “[8 Led Zeppelin Songs That 'Rip Off' Other Songs](https://www.youtube.com/watch?v=efuOELImxAc).” 2021. YouTube.
+- “[Copyright Criminals - Trailer](https://www.youtube.com/watch?v=frlKBi9wAyA).” 2010. YouTube.
+- “[U2: How Negativland Exposed U2's Hypocrisy](https://www.youtube.com/watch?v=yy11T6Ri0hk).” 2020. YouTube.
+- “[Negativland - Still Haven't Found What I'm Looking For (Special Edit Radio Mix)](https://www.youtube.com/watch?v=AVroc7RvNeU).” 1991. YouTube.
+- “[Madonna - What the F\*ck Do You Think You're Doing?](https://www.youtube.com/watch?v=XU5xC00m-gA)” 2003. YouTube.
+- [*Xerophonics: Copying Machine Music*](https://open.spotify.com/album/5goxyvy7R96Pg0ibNiteGl). Stefan Helmreich. 2003. Spotify.
+- “[The Harley-Davidson Sound Trademark](https://www.svw.co.za/the-harley-davidson-sound-trademark/).” Smit & Van Wyk. 
+- “[DJ /rupture - Gold Teeth Thief](https://www.youtube.com/watch?v=9y6IbLbypWo).” 2001. YouTube.
+- Boone, Christine. “[Gendered Power Relationships in Mashups](https://mtosmt.org/issues/mto.18.24.1/mto.18.24.1.boone.html).” *Music Theory Online* 24, no. 1 (2018).
 
 ## Session 9: Mixing, EQ, Compression, Other Effects \[C\] 
 
-See {{% resource_link "b28ba540-703c-4524-b6c1-8be561e40137" "Assignments" %}} section for further detail.
+See [Assignments](https://draft.ocw.mit.edu/courses/21a-505j-the-anthropology-of-sound-spring-2022/pages/assignments/) section for further detail.
 
 ## Session 10: Sonic Privacy, Sonic Publics \[H\] 
 
 *Sound/video examples and excerpts in class*
 
-- “{{% resource_link "60e4663c-44fb-448b-95e4-ade7f10c14b1" "Beats by Dre - Hear What You Want / Colin Kaepernick" %}}.” 2015. YouTube.
-- “{{% resource_link "1beb645b-337f-4809-b84a-cd825a8e3024" "HELL YOU TALMBOUT - Janelle Monae f. Wondaland Records (video)" %}}.” 2015. YouTube.
-- “{{% resource_link "4b10b73c-dc69-43b7-b7dd-e675c51ed84f" "Janelle Monáe - Say Her Name (Hell You Talmbout) (feat. Various Artists) \[Official Lyric Video\]" %}}.” 2021. YouTube.
-- “{{% resource_link "78f3f01c-df47-43b8-a4c1-1c135ca18088" "Nina Simone: Mississippi Goddam" %}}.” 1965. YouTube.
-- Chen, Shawna.  “{{% resource_link "49558a0a-fc6b-4996-9217-389174d0b91b" "Yellow Pearl: Soundtrack of the Asian American Movement" %}}.” May 19, 2021. The Yappie.
+- “[Beats by Dre - Hear What You Want / Colin Kaepernick](https://www.youtube.com/watch?v=ZPllALdtgFI).” 2015. YouTube.
+- “[HELL YOU TALMBOUT - Janelle Monae f. Wondaland Records (video)](https://www.youtube.com/watch?v=fumaCsQ9wKw).” 2015. YouTube.
+- “[Janelle Monáe - Say Her Name (Hell You Talmbout) (feat. Various Artists) \[Official Lyric Video\]](https://www.youtube.com/watch?v=kQbeUN-IfyQ).” 2021. YouTube.
+- “[Nina Simone: Mississippi Goddam](https://www.youtube.com/watch?v=LJ25-U3jNWM).” 1965. YouTube.
+- Chen, Shawna.  “[Yellow Pearl: Soundtrack of the Asian American Movement](https://theyappie.com/asian-american-movement-yellow-pearl/).” May 19, 2021. The Yappie.
 
 *Film in class*
 
-- {{% resource_link "05685a3d-4362-49fe-a127-837600806545" "*Everybody In The Place: An Incomplete History of Britain, 1984–1992*" %}}*.* Directed by Jeremy Deller. Color, 60 min. 2019. Vimeo.
+- [*Everybody In The Place: An Incomplete History of Britain, 1984–1992*](https://vimeo.com/394779397)*.* Directed by Jeremy Deller. Color, 60 min. 2019. Vimeo.
 
 *Online lecture to be excerpted in class*
 
-- “{{% resource_link "6b533db4-e69f-4756-acd8-88e561c4c18a" "Maria Sonevytsky, \"Understanding the War on Ukraine through Its Musical Culture" %}}.” (Online lecture at Bard College, February 2022.) YouTube.
+- “[Maria Sonevytsky, "Understanding the War on Ukraine through Its Musical Culture](https://www.youtube.com/watch?v=Ex6R1-XGg9s&t=1s).” (Online lecture at Bard College, February 2022.) YouTube.
 
 ## Session 11: Mastering vs. Spatializing for Final Mixes \[C\] 
 
-See {{% resource_link "b28ba540-703c-4524-b6c1-8be561e40137" "Assignments" %}} section for further detail.
+See [Assignments](https://draft.ocw.mit.edu/courses/21a-505j-the-anthropology-of-sound-spring-2022/pages/assignments/) section for further detail.
 
 ## Session 12: The Sounds of Science \[H\] 
 
