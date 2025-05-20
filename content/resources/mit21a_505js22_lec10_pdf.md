@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/21a-505j-the-anthropology-of-sound-spring-2022/mit21a_505js22_lec10.pdf
+file: courses/the-anthropology-of-sound/mit21a_505js22_lec10.pdf
 file_size: 3475295
 file_type: application/pdf
 image_metadata:
