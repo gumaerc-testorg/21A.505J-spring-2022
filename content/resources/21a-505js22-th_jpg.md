@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/the-anthropology-of-sound/21a-505js22-th.jpg
+file: /ol-ocw-studio-app/courses/21a-505j-the-anthropology-of-sound-spring-2022/21a-505js22-th.jpg
 file_size: 5251
 file_type: image/jpeg
 image_metadata:
