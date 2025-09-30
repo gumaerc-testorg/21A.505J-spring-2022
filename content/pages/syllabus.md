@@ -24,7 +24,7 @@ for class discussion.
 
 ### Sound Object
 
-Students will create a sound object — a musical or sound art composition, a soundscape, a podcast, a mash-up, a supercut—by semester’s end. In-class sessions will provide guidance on digital audio workstations, mixing, studio use. An aspirational goal of the class will be to create an album we can post on [Bandcamp](https://bandcamp.com/).
+Students will create a sound object — a musical or sound art composition, a soundscape, a podcast, a mash-up, a supercut—by semester’s end. In-class sessions will provide guidance on digital audio workstations, mixing, studio use. An aspirational goal of the class will be to create an album we can post on {{% resource_link "009aee43-cd72-4ab7-b7da-637d20c88a12" "Bandcamp" %}}.
 
 ### Papers
 
