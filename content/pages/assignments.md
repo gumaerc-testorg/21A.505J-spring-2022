@@ -7,7 +7,7 @@ uid: 3adf174e-7941-4d88-9854-eb4b1eb6c643
 ---
 ## Sound Object
 
-Students will create a sound object — a musical or sound art composition, a soundscape, a podcast, a mash-up, a supercut—by semester’s end. In-class sessions will provide guidance on digital audio workstations, mixing, studio use. An aspirational goal of the class will be to create an album we can post on {{% resource_link "009aee43-cd72-4ab7-b7da-637d20c88a12" "Bandcamp" %}}.
+Students will create a sound object — a musical or sound art composition, a soundscape, a podcast, a mash-up, a supercut—by semester’s end. In-class sessions will provide guidance on digital audio workstations, mixing, studio use. An aspirational goal of the class will be to create an album we can post on [Bandcamp](https://bandcamp.com/).
 
 For further detail, click on the links below.
 
@@ -27,7 +27,7 @@ Session 13 assignment (Paper 2): A final paper (1500 words or so) should accompa
 
 *Student Examples*
 
-Students created an album of sound objects, “{{% resource_link "16b9c3df-5328-4b7d-a5c8-7a5dac057f5b" "AnthropologyOfSound2022" %}},” which has been posted on {{% resource_link "009aee43-cd72-4ab7-b7da-637d20c88a12" "Bandcamp" %}}.
+Students created an album of sound objects, “[AnthropologyOfSound2022](https://anthropologyofsound2022.bandcamp.com/album/anthropologyofsound2022),” which has been posted on [Bandcamp](https://bandcamp.com/).
 
 One of the sound objects, “Paradigm Shifts,” also has an accompanying {{% resource_link "1b2ca207-a0bb-4a71-b035-8c78d62b7191" "“Final Paper.” (PDF)" %}}
 
