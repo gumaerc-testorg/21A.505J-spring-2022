@@ -15,17 +15,17 @@ Please remember the Tomo Fujita tips for learning to make music: Don't worry. Do
 
 In addition this week, I also ask you to experiment with EQ and Compression.  
 
-In {{% resource_link "d54704ca-6137-478f-be55-a25dbe0ff4f6" "Ableton Live" %}}, I recommend trying the EQ8 (or the EQ3) audio effect to adjust the mix of frequencies in your mix. I also recommend trying the Glue Compressor to adjust the loudness profile. Remember to try a lot of A/B testing to see if you can learn to hear what these different audio effects do.  
+In [Ableton Live](https://www.ableton.com/en/live/), I recommend trying the EQ8 (or the EQ3) audio effect to adjust the mix of frequencies in your mix. I also recommend trying the Glue Compressor to adjust the loudness profile. Remember to try a lot of A/B testing to see if you can learn to hear what these different audio effects do.  
 
 How would you describe the differences in sound that you experience using these tools?  
 
-Here are a couple of tutorials on using {{% resource_link "d54704ca-6137-478f-be55-a25dbe0ff4f6" "Ableton Live" %}} for Mastering:
+Here are a couple of tutorials on using [Ableton Live](https://www.ableton.com/en/live/) for Mastering:
 
-“{{% resource_link "809bad7a-6b8c-40ea-b113-c5f9d78b99a3" "Mastering in Ableton Live - A Step by Step Tutorial" %}}.” YouTube.
+“[Mastering in Ableton Live - A Step by Step Tutorial](https://www.youtube.com/watch?v=HnQ8qEk4910).” YouTube.
 
 How to use Compression: 
 
-Delaney, Martin. “{{% resource_link "d5feb7ba-0e11-4e16-aef0-c1b13ea49c91" "Compression and Limiting Demystified in Ableton Live" %}}.” February 11, 2019. MusicTech.
+Delaney, Martin. “[Compression and Limiting Demystified in Ableton Live](https://musictech.com/tutorials/compression-and-limiting-demystified-in-ableton-live/).” February 11, 2019. MusicTech.
 
 If possible, prepare a “Mastered” version of your track and an "Unmastered" version, so we can try to hear the difference too.  
 
